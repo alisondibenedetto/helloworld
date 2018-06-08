@@ -1,6 +1,11 @@
-# Prints hello
-printf("hello");
 
-if(False){
-  printf("never");
+#include<stdio.h>
+int main(void)
+{
+	// Prints hello
+	printf("hello");
+
+	if(0) /*false*/{
+	  printf("never");
+	}
 }
