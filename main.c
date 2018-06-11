@@ -1,4 +1,5 @@
 
+
 #include<stdio.h>
 int main(void)
 {
@@ -8,4 +9,7 @@ int main(void)
 	if(0) /*false*/{
 	  printf("never");
 	}
+  printf("hello world\n");
 }
+
+
