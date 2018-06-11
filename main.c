@@ -1,6 +1,2 @@
 # Prints hello
-printf("hello");
-
-if(False){
-  printf("never");
-}
+printf("hello world\n");
