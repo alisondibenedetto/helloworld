@@ -12,4 +12,14 @@ int main(void)
   printf("hello world\n");
 }
 
+int count = 0;
+while (1)
+{
+	// Keep incrementing count
+	count++;
+
+	// Prints count
+	printf(count);
+}
+
 
