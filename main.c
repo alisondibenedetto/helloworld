@@ -11,6 +11,7 @@ int main(void)
 	}
   printf("hello world\n");
   print("new");
+  printf("this is my own");
 }
 
 
