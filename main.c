@@ -10,6 +10,7 @@ int main(void)
 	  printf("never");
 	}
   printf("hello world\n");
+  print("new");
 }
 
 
